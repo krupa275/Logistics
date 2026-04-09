@@ -65,8 +65,6 @@ Displays real-time summary:
 - Approved Quotes
 - Vendors Count
 
-📸 Screenshot:
-https://dummy-url.com/dashboard.png
 
 ---
 
@@ -97,7 +95,7 @@ Features:
 - Status Update
 
 📸 Screenshot:
-https://dummy-url.com/inquiry.png
+![WhatsApp Image 2026-04-09 at 12 01 30 AM (1)](https://github.com/user-attachments/assets/61ec1849-814a-41b5-94c2-6194057b5474)
 
 ---
 
@@ -126,7 +124,7 @@ Fields:
 - Status (Pending / Received)
 
 📸 Screenshot:
-https://dummy-url.com/vendor.png
+![WhatsApp Image 2026-04-09 at 12 01 30 AM (2)](https://github.com/user-attachments/assets/09b3e97d-83c2-4c52-8f2d-198c699ac238)
 
 ---
 
@@ -148,7 +146,7 @@ Filters:
 - Status
 
 📸 Screenshot:
-https://dummy-url.com/reports.png
+![WhatsApp Image 2026-04-09 at 12 01 45 AM](https://github.com/user-attachments/assets/33d3ab9d-9a20-4b06-9146-178d8d6c7219)
 
 ---
 
@@ -200,7 +198,7 @@ Define permissions:
 - Delete
 
 📸 Screenshot:
-https://dummy-url.com/rbac.png
+![WhatsApp Image 2026-04-09 at 12 01 45 AM (1)](https://github.com/user-attachments/assets/bd1ce0fc-f0f6-4752-bf0e-b243e6677d75)
 
 ---
 
