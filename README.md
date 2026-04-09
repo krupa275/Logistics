@@ -41,6 +41,8 @@ Password: admin123
 ```
 
 > Authentication is handled via Redux + LocalStorage (no backend)
+Screenshot:
+<img width="1920" height="839" alt="image" src="https://github.com/user-attachments/assets/88692ab9-4db3-414a-8fef-7b8e23b68d3e" />
 
 ---
 
