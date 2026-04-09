@@ -37,7 +37,7 @@ http://localhost:5173
 
 ```
 Username: admin
-Password: admin123
+Password: Admin@123
 ```
 
 > Authentication is handled via Redux + LocalStorage (no backend)
