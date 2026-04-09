@@ -1,11 +1,11 @@
-# 🚀 Logistics Management System (Frontend)
+#  Logistics Management System (Frontend)
 
 A scalable logistics management system built using **React + Redux Toolkit + ShadCN UI + Tailwind CSS**.
 This project covers the complete workflow from **Inquiry → Vendor → Reports → RBAC → Dashboard**.
 
 ---
 
-# 📦 Tech Stack
+# Tech Stack
 
 - React JS (Vite)
 - Redux Toolkit
@@ -15,7 +15,7 @@ This project covers the complete workflow from **Inquiry → Vendor → Reports 
 
 ---
 
-# ⚙️ How to Run Project
+# How to Run Project
 
 ```bash
 # Install dependencies
@@ -33,7 +33,7 @@ http://localhost:5173
 
 ---
 
-# 🔐 Default User Credentials
+# Default User Credentials
 
 ```
 Username: admin
@@ -44,7 +44,7 @@ Password: admin123
 
 ---
 
-# 🧠 Application Flow
+# Application Flow
 
 ```
 Inquiry → Vendor Request → Actual Quote → Reports → Dashboard
@@ -52,11 +52,11 @@ Inquiry → Vendor Request → Actual Quote → Reports → Dashboard
 
 ---
 
-# 🧩 Modules Overview
+# Modules Overview
 
 ---
 
-## 1️⃣ Dashboard Module
+##  Dashboard Module
 
 Displays real-time summary:
 
@@ -68,9 +68,9 @@ Displays real-time summary:
 
 ---
 
-## 2️⃣ Inquiry Module
+## Inquiry Module
 
-### ➕ Create Inquiry
+### Create Inquiry
 
 Fields:
 
@@ -84,7 +84,7 @@ Fields:
 - Weight
 - Notes
 
-### 📊 Inquiry List
+### Inquiry List
 
 Features:
 
@@ -94,26 +94,26 @@ Features:
 - Edit / Delete
 - Status Update
 
-📸 Screenshot:
+Screenshot:
 ![WhatsApp Image 2026-04-09 at 12 01 30 AM (1)](https://github.com/user-attachments/assets/61ec1849-814a-41b5-94c2-6194057b5474)
 
 ---
 
-## 3️⃣ Vendor Module
+## Vendor Module
 
-### 📥 Vendor Quote Request
+### Vendor Quote Request
 
 - Select Inquiry
 - Add multiple vendors dynamically
 - Expected Rate
 - Remarks
 
-### 🔄 Convert to Actual Quote
+### Convert to Actual Quote
 
 - Click **Get Quote**
 - Converts request → actual quote
 
-### 📊 Actual Vendor Quotes
+### Actual Vendor Quotes
 
 Fields:
 
@@ -123,14 +123,14 @@ Fields:
 - Notes
 - Status (Pending / Received)
 
-📸 Screenshot:
+ Screenshot:
 ![WhatsApp Image 2026-04-09 at 12 01 30 AM (2)](https://github.com/user-attachments/assets/09b3e97d-83c2-4c52-8f2d-198c699ac238)
 
 ---
 
-## 4️⃣ Reports Module
+##  Reports Module
 
-### 📈 Inquiry Report
+### Inquiry Report
 
 Filters:
 
@@ -138,21 +138,21 @@ Filters:
 - Date Range
 - Status
 
-### 📊 Vendor Quote Report
+### Vendor Quote Report
 
 Filters:
 
 - Vendor Name
 - Status
 
-📸 Screenshot:
+ Screenshot:
 ![WhatsApp Image 2026-04-09 at 12 01 45 AM](https://github.com/user-attachments/assets/33d3ab9d-9a20-4b06-9146-178d8d6c7219)
 
 ---
 
-## 5️⃣ RBAC Module (Role-Based Access Control)
+## RBAC Module (Role-Based Access Control)
 
-### 👤 User Management
+###  User Management
 
 - Create / Edit / Delete User
 - Fields:
@@ -165,7 +165,7 @@ Filters:
 
 ---
 
-### 🛡 Role Management
+### Role Management
 
 Create roles:
 
@@ -181,14 +181,14 @@ Fields:
 
 ---
 
-### 🔗 User-Role Mapping
+### User-Role Mapping
 
 - Assign roles to users
 - Select User + Select Role
 
 ---
 
-### 🏢 Branch-wise Role Access
+### Branch-wise Role Access
 
 Define permissions:
 
@@ -197,12 +197,12 @@ Define permissions:
 - Edit
 - Delete
 
-📸 Screenshot:
+ Screenshot:
 ![WhatsApp Image 2026-04-09 at 12 01 45 AM (1)](https://github.com/user-attachments/assets/bd1ce0fc-f0f6-4752-bf0e-b243e6677d75)
 
 ---
 
-# 🗂 Folder Structure
+#  Folder Structure
 
 ```
 src/
@@ -220,7 +220,7 @@ src/
 
 ---
 
-# 🧠 State Management
+# State Management
 
 - Managed using **Redux Toolkit**
 - Persisted using **LocalStorage**
@@ -228,7 +228,7 @@ src/
 
 ---
 
-# ✨ Features
+# Features
 
 - Fully responsive UI
 - Scalable folder architecture
@@ -239,7 +239,7 @@ src/
 
 ---
 
-# ⚡ Important Functional Flows
+#  Important Functional Flows
 
 ### Inquiry Flow
 
@@ -259,25 +259,6 @@ src/
 
 ---
 
-# 🚀 Future Improvements
 
-- Backend API integration (Node.js / Express)
-- JWT Authentication
-- Role-based route protection
-- Export Reports (CSV / Excel)
-- Charts & Analytics Dashboard
-- Real-time updates (WebSockets)
 
----
 
-# 📌 Notes
-
-- Frontend-only application
-- Built with scalable architecture
-- Easily extendable to enterprise system
-
----
-
-# 👨‍💻 Author
-
-Developed using best practices in modern React architecture.
